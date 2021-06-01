@@ -5493,11 +5493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthenticationCenterIds4\\Zhaoxi.AspNetCore31.AuthenticationCenterIds4.csproj",
+      "projectUniqueName": "D:\\github\\LC_MyGrpc\\Zhaoxi.AspNetCore31.AuthenticationCenterIds4\\Zhaoxi.AspNetCore31.AuthenticationCenterIds4.csproj",
       "projectName": "Zhaoxi.AspNetCore31.AuthenticationCenterIds4",
-      "projectPath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthenticationCenterIds4\\Zhaoxi.AspNetCore31.AuthenticationCenterIds4.csproj",
+      "projectPath": "D:\\github\\LC_MyGrpc\\Zhaoxi.AspNetCore31.AuthenticationCenterIds4\\Zhaoxi.AspNetCore31.AuthenticationCenterIds4.csproj",
       "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-      "outputPath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthenticationCenterIds4\\obj\\",
+      "outputPath": "D:\\github\\LC_MyGrpc\\Zhaoxi.AspNetCore31.AuthenticationCenterIds4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

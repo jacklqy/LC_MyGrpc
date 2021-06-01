@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l+oShDswdAnCksngYFGNIsFzWHEeiYZovWs4nmN8Fb4o0r6evqzc2ysT8HvdZeNI6bJ7irJi6KuR4/0hqQMnBg==",
+  "dgSpecHash": "H35PhDtkjJ9T64ZH6htpTh9CdHV2xO1UsGqNg4qmBEBAsnpax/Xt7Dik+xNTeUFx7JwvqVWXQhkIID9c3MzDkA==",
   "success": true,
-  "projectFilePath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthenticationCenter\\Zhaoxi.AspNetCore31.AuthenticationCenter.csproj",
+  "projectFilePath": "D:\\github\\LC_MyGrpc\\Zhaoxi.AspNetCore31.AuthenticationCenter\\Zhaoxi.AspNetCore31.AuthenticationCenter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

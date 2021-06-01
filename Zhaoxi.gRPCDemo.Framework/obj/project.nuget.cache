@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AkivuCRhaoOB6dzRVMnv1Tci0juvENQBYYDfcZtfIS4f7oDlxS+8JfMlpPcdOGFWqCZRyc8KTmfhd6V5731BGQ==",
+  "dgSpecHash": "A7g81Bet5byxdrTlUQipCGjL+Gq0KmT0S/yTXhT8Ht4YL9l4Lid+IQJUot1/lIVP5YD1E8ZvDEDU2nFMyDwj7Q==",
   "success": true,
-  "projectFilePath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.Framework\\Zhaoxi.gRPCDemo.Framework.csproj",
+  "projectFilePath": "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.Framework\\Zhaoxi.gRPCDemo.Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\grpc.core.api\\2.29.0\\grpc.core.api.2.29.0.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",

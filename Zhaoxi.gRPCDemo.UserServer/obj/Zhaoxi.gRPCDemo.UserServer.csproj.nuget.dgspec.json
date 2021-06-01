@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.UserServer\\Zhaoxi.gRPCDemo.UserServer.csproj": {}
+    "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.UserServer\\Zhaoxi.gRPCDemo.UserServer.csproj": {}
   },
   "projects": {
-    "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.UserServer\\Zhaoxi.gRPCDemo.UserServer.csproj": {
+    "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.UserServer\\Zhaoxi.gRPCDemo.UserServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.UserServer\\Zhaoxi.gRPCDemo.UserServer.csproj",
+        "projectUniqueName": "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.UserServer\\Zhaoxi.gRPCDemo.UserServer.csproj",
         "projectName": "Zhaoxi.gRPCDemo.UserServer",
-        "projectPath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.UserServer\\Zhaoxi.gRPCDemo.UserServer.csproj",
+        "projectPath": "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.UserServer\\Zhaoxi.gRPCDemo.UserServer.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.UserServer\\obj\\",
+        "outputPath": "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.UserServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

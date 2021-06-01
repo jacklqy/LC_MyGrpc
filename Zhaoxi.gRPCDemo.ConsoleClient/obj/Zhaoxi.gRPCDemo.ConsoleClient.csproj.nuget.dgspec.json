@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.ConsoleClient\\Zhaoxi.gRPCDemo.ConsoleClient.csproj": {}
+    "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.ConsoleClient\\Zhaoxi.gRPCDemo.ConsoleClient.csproj": {}
   },
   "projects": {
-    "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.ConsoleClient\\Zhaoxi.gRPCDemo.ConsoleClient.csproj": {
+    "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.ConsoleClient\\Zhaoxi.gRPCDemo.ConsoleClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.ConsoleClient\\Zhaoxi.gRPCDemo.ConsoleClient.csproj",
+        "projectUniqueName": "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.ConsoleClient\\Zhaoxi.gRPCDemo.ConsoleClient.csproj",
         "projectName": "Zhaoxi.gRPCDemo.ConsoleClient",
-        "projectPath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.ConsoleClient\\Zhaoxi.gRPCDemo.ConsoleClient.csproj",
+        "projectPath": "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.ConsoleClient\\Zhaoxi.gRPCDemo.ConsoleClient.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.ConsoleClient\\obj\\",
+        "outputPath": "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.ConsoleClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

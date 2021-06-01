@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iVknG1CLPYhvZKLXUJ7CV/IJ5GdSv50tCVdDUV7zIIdZjwueB6Y+/NH3eSO4L4JkbGrW3eG9VJPNGwXAk/cbUA==",
+  "dgSpecHash": "NOeqV7L5DY2Lzm9FeU3G2f6nT9Pxs/BvJV/HUljxV0qSUcN05icg1oYEi65EipcRFsPi6kc6df+9lC0obPnN9Q==",
   "success": true,
-  "projectFilePath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo.csproj",
+  "projectFilePath": "D:\\github\\LC_MyGrpc\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\atom.base64url\\1.0.2\\atom.base64url.1.0.2.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\google.protobuf\\3.12.2\\google.protobuf.3.12.2.nupkg.sha512",

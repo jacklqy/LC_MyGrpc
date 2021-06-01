@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bzqPEYy8gcgdEqTDV7m8Wrl9GpqCvyjL1xniBOxjR6MxyGi0dvPUMw0aLSQJCWL8BMdPFhjnOEOwvllIFKO+Kg==",
+  "dgSpecHash": "NUvt4qBzQnzVRLuOAHYwwmaps/qxSCvTIekAu5zwRClsQXjx4QHIxe+Jwga7knFMrcWx1a2RPnZHKZB3M7WOPA==",
   "success": true,
-  "projectFilePath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.UserServer\\Zhaoxi.gRPCDemo.UserServer.csproj",
+  "projectFilePath": "D:\\github\\LC_MyGrpc\\Zhaoxi.gRPCDemo.UserServer\\Zhaoxi.gRPCDemo.UserServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\google.protobuf\\3.10.0\\google.protobuf.3.10.0.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\grpc.aspnetcore\\2.24.0\\grpc.aspnetcore.2.24.0.nupkg.sha512",
