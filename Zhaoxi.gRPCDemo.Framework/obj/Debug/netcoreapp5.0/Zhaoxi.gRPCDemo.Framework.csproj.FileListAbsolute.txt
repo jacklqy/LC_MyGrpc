@@ -1,0 +1,5 @@
+D:\zhaoxi\Architect\20200529Architect01Course043gRPC\Zhaoxi.AspNetCore31.AuthDemo\Zhaoxi.gRPCDemo.Framework\bin\Debug\netcoreapp5.0\Zhaoxi.gRPCDemo.Framework.deps.json
+D:\zhaoxi\Architect\20200529Architect01Course043gRPC\Zhaoxi.AspNetCore31.AuthDemo\Zhaoxi.gRPCDemo.Framework\bin\Debug\netcoreapp5.0\Zhaoxi.gRPCDemo.Framework.dll
+D:\zhaoxi\Architect\20200529Architect01Course043gRPC\Zhaoxi.AspNetCore31.AuthDemo\Zhaoxi.gRPCDemo.Framework\obj\Debug\netcoreapp5.0\Zhaoxi.gRPCDemo.Framework.csprojAssemblyReference.cache
+D:\zhaoxi\Architect\20200529Architect01Course043gRPC\Zhaoxi.AspNetCore31.AuthDemo\Zhaoxi.gRPCDemo.Framework\obj\Debug\netcoreapp5.0\Zhaoxi.gRPCDemo.Framework.AssemblyInfoInputs.cache
+D:\zhaoxi\Architect\20200529Architect01Course043gRPC\Zhaoxi.AspNetCore31.AuthDemo\Zhaoxi.gRPCDemo.Framework\obj\Debug\netcoreapp5.0\Zhaoxi.gRPCDemo.Framework.AssemblyInfo.cs

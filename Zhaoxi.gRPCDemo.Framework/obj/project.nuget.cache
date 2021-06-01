@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AkivuCRhaoOB6dzRVMnv1Tci0juvENQBYYDfcZtfIS4f7oDlxS+8JfMlpPcdOGFWqCZRyc8KTmfhd6V5731BGQ==",
+  "success": true,
+  "projectFilePath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.Framework\\Zhaoxi.gRPCDemo.Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.core.api\\2.29.0\\grpc.core.api.2.29.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

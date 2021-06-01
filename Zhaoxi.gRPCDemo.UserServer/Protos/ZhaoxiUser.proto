@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option csharp_namespace = "Zhaoxi.gRPCDemo.UserServer";
+
+package ZhaoxiUser;
+
+// The greeting service definition.
+service ZhaoxiUser {
+  // Sends a greeting
+  rpc FindUser (ZhaoxiUserRequest) returns (ZhaoxiUserReply);
+}
+
+// The request message containing the user's name.
+message ZhaoxiUserRequest {
+  int32 Id = 1;
+}
+
+// The response message containing the greetings.
+message ZhaoxiUserReply {
+  UserModel user = 1;
+  message UserModel{
+        int32 Id = 1;
+        string name=2;
+        string account=3;
+        string password=4;
+  }
+}

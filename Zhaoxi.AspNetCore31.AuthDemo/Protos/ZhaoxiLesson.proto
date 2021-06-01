@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "Zhaoxi.gRPCDemo.LessonServer";
+
+package ZhaoxiLesson;
+
+// The greeting service definition.
+service ZhaoxiLesson {
+  // Sends a greeting
+  rpc FindLesson (ZhaoxiLessonRequest) returns (ZhaoxiLessonReply);
+}
+
+// The request message containing the user's name.
+message ZhaoxiLessonRequest {
+  int32 Id = 1;
+}
+
+// The response message containing the greetings.
+message ZhaoxiLessonReply {
+  LessonModel Lesson = 1;
+  message LessonModel{
+        int32 Id = 1;
+        string Name=2;
+        string Remark=3;
+  }
+}

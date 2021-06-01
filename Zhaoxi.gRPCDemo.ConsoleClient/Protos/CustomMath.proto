@@ -1,0 +1,55 @@
+syntax = "proto3";//风格--工具
+
+import "google/protobuf/empty.proto";//repeated 集合
+option csharp_namespace = "Zhaoxi.gRPCDemo.DefaultServer";
+
+package CustomMathPackage;
+
+// The greeting service definition.
+service CustomMath {
+  rpc SayHello (HelloRequestMath) returns (HelloReplyMath);
+  rpc Plus(RequestPara) returns (ResponseResult);
+  rpc SelfIncreaseClient(stream BathTheCatReq) returns (IntArrayModel);//多了个stream
+  rpc SelfIncreaseServer(IntArrayModel) returns ( stream BathTheCatResp);
+  rpc SelfIncreaseDouble(stream BathTheCatReq) returns ( stream BathTheCatResp);
+  rpc Count(google.protobuf.Empty) returns (CountResult);//无参数Empty
+}
+
+// The request message containing the user's name.
+message HelloRequestMath {
+  string name = 1;
+  int32 id=2;
+}
+
+// The response message containing the greetings.
+message HelloReplyMath {
+  string message = 1;
+}
+
+// The request message containing the user's name.
+message RequestPara {
+  int32 iLeft = 1;
+  int32 iRight = 2;//参数个数
+}
+
+// The response message containing the greetings.
+message ResponseResult {
+  int32 Result = 1;
+  string Message=2;
+}
+
+message BathTheCatReq{
+    int32 Id=1;
+}
+message BathTheCatResp{
+	string Message=1;
+}
+
+message IntArrayModel{
+	repeated int32 Number=1;//集合
+}
+
+message CountResult{
+	int32 Count=1;
+}
+

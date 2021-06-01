@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "AqGyTfkC9YQP9bAH9tCiJ6iH1zizpi9q9mSK9JeJgVXUFbmv1/KbsFY5G/33MGdl075PvJX0iPp5bdUwgCCnZA==",
+  "success": true,
+  "projectFilePath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.ConsoleClient\\Zhaoxi.gRPCDemo.ConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRH201\\.nuget\\packages\\google.protobuf\\3.12.2\\google.protobuf.3.12.2.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.core.api\\2.29.0\\grpc.core.api.2.29.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.net.client\\2.29.0\\grpc.net.client.2.29.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.net.common\\2.29.0\\grpc.net.common.2.29.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.tools\\2.29.0\\grpc.tools.2.29.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

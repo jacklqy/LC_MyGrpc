@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "IndexPolicyDouble";
+}
+
+<h1>IndexPolicyDouble</h1>
+<h3>@base.Context.User.Identity.Name</h3>
+@foreach (var cliam in base.Context.User.Identities.First().Claims)
+{
+    <h3>**********************************************</h3>
+    <h4> @cliam.Type:@cliam.Value </h4>
+}

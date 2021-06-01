@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "2BC3xhjuN59kybPGssVZzJA0wAg0V1dIFAQ7Cp9Ie2ZQ01LCGSNyVD7lgwLS487/gd+w33fY1qS6cpZCCCOD8w==",
+  "success": true,
+  "projectFilePath": "D:\\20200529Architect01Course043gRPC\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.gRPCDemo.DefaultServer\\Zhaoxi.gRPCDemo.DefaultServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRH201\\.nuget\\packages\\google.protobuf\\3.10.0\\google.protobuf.3.10.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.aspnetcore\\2.24.0\\grpc.aspnetcore.2.24.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.aspnetcore.server\\2.24.0\\grpc.aspnetcore.server.2.24.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.24.0\\grpc.aspnetcore.server.clientfactory.2.24.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.core.api\\2.29.0\\grpc.core.api.2.29.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.net.client\\2.24.0\\grpc.net.client.2.24.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.net.clientfactory\\2.24.0\\grpc.net.clientfactory.2.24.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.net.common\\2.24.0\\grpc.net.common.2.24.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\grpc.tools\\2.23.0\\grpc.tools.2.23.0.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.1\\microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.http\\2.1.1\\microsoft.extensions.http.2.1.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.logging\\2.1.1\\microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
